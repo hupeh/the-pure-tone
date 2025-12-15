@@ -1,0 +1,7 @@
+id = "the-pure-tone"
+name = "The Pure Tone"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hupeh <meiligo@gmail.com>"]
+description = "The pure tone theme for zed"
+repository = "https://github.com/hupeh/the-pure-tone"

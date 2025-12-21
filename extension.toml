@@ -1,6 +1,6 @@
 id = "the-pure-tone"
 name = "The Pure Tone"
-version = "0.0.1"
+version = "0.0.2"
 schema_version = 1
 authors = [ "hupeh <hupeh@qq.com>" ]
 description = "Pure and elegant color themes for zed"
